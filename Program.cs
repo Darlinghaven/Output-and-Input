@@ -104,3 +104,5 @@ Console.WriteLine($"Would like offers from potential employers?: {offers}");
 Console.WriteLine("");
 Console.WriteLine("========================");
 Console.WriteLine("");
+
+//End of program and code.
