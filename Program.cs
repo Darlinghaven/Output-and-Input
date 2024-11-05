@@ -55,7 +55,7 @@ Console.WriteLine(language + " entered.");
 Console.WriteLine("");
 
 Console.WriteLine("Question 10");
-Console.WriteLine("Is it ok for potential employers to reach out with job offers?");
+Console.WriteLine("Is it ok for potential employers to reach out with job offers? Answer with 'yes' or 'no'.");
 string offers;
 while (true)
 {
