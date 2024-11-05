@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System.Security.Cryptography;
-
+﻿
 Console.WriteLine("Welcome to the CV creator");
 Console.WriteLine("Question 1");
 Console.WriteLine("What is your given/first name?");
