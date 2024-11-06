@@ -83,6 +83,7 @@ Console.WriteLine("Generating CV...");
 Console.WriteLine("Press any key to continue.");
 Console.ReadKey();
 
+Console.WriteLine("");
 Console.WriteLine("========== CV ==========");
 Console.WriteLine("Personal Info");
 Console.Write("Name: ");
@@ -105,4 +106,6 @@ Console.WriteLine("");
 Console.WriteLine("========================");
 Console.WriteLine("");
 Console.WriteLine("");
+
+Console.ReadKey();
 //End of program and code.
